@@ -1,0 +1,158 @@
+
+=========WELCOME TO QUIZ MASTER==========
+-----------------------------------------
+1. PLAY QUIZ
+2. SEE INSTRUCTIONS ON HOW TO PLAY THE GAME
+3. EXIT
+4. ABOUT US
+ENTER YOUR CHOICE: 1
+
+==========QUIZ START==========
+
+Q1. In which year was Sports Authority of India established? 
+
+A. 1952
+B. 1967
+C. 1993
+D. 1982
+
+Enter your answer: A
+
+You are Wrong
+
+Q2. Who is the current chief of the world bank group? 
+
+A. Donald Tusk
+B. David Malpass
+C. Christine Lagarde
+D. Jim Yong Kim
+
+Enter your answer: C
+
+You are Wrong
+
+Q3. LIBRA an alternative of existing cryptocurrency like bitcoin is being developed by? 
+
+A. Facebook
+B. Google
+C. Microsoft
+D. None of the above
+
+Enter your answer: A
+
+You are Right
+
+Q4. First private train in India run between which of the two cities? 
+
+A. Delhi-Lucknow
+B. Delhi-Ahmedabad
+C. Both of the above route
+D. None of the above
+
+Enter your answer: B
+
+You are Wrong
+
+Q5. LIBRA an alternative of existing cryptocurrency like bitcoin is being developed by? 
+
+A. Facebook
+B. Google
+C. Microsoft
+D. None of the above
+
+Enter your answer: D
+
+You are Wrong
+
+Q6. Who wrote the famous poem - The Charge of the Light Brigade? 
+
+A. Lord Alfred Tennyson
+B. Christopher Marlowe
+C. Johannes Gutenberg
+D. Rene Descartes
+
+Enter your answer: A
+
+You are Right
+
+Q7. Guru Gopi Krishna is popular for which form of Indian dance? 
+
+A. Bharatanatyam
+B. Kuchipudi
+C. Kathak
+D. Manipuri
+
+Enter your answer: C
+
+You are Wrong
+
+Q8. The Government of which state has instituted the Tansen Samman? 
+
+A. West Bengal
+B. Madhya Pradesh
+C. Bihar
+D. Gujrat
+
+Enter your answer: B
+
+You are Right
+
+Q9. Headquater of International Olympic Committee is situated at? 
+
+A. Athens
+B. Lausanne
+C. Dubai
+D. None of the above
+
+Enter your answer: D
+
+You are Wrong
+
+Q10. J.B. Dunlop is popular for which of the following inventions? 
+
+A. Model airplanes
+B. Pneumatic rubber tire
+C. Rubber boot
+D. Automobile wheel rim
+
+Enter your answer: A
+
+You are Wrong
+
+FINAL SCORE: 3 Out of 10
+
+
+=========WELCOME TO QUIZ MASTER==========
+-----------------------------------------
+1. PLAY QUIZ
+2. SEE INSTRUCTIONS ON HOW TO PLAY THE GAME
+3. EXIT
+4. ABOUT US
+ENTER YOUR CHOICE: 2
+
+==========RULES==========
+1. Each round consists of 10 random questions. To answer, you must press A/B/C/D (case-insensitive).
+Your final score will be given at the end.
+2. Each question consists of 1 point. There's no negative point for wrong answers.
+        
+
+=========WELCOME TO QUIZ MASTER==========
+-----------------------------------------
+1. PLAY QUIZ
+2. SEE INSTRUCTIONS ON HOW TO PLAY THE GAME
+3. EXIT
+4. ABOUT US
+ENTER YOUR CHOICE: 4
+
+==========ABOUT US==========
+This project has been created by Harsh Rajput, Priya Yadav & Priyanshu Rana of Class 12 D.
+It is a basic Python Quiz Game Program.
+
+=========WELCOME TO QUIZ MASTER==========
+-----------------------------------------
+1. PLAY QUIZ
+2. SEE INSTRUCTIONS ON HOW TO PLAY THE GAME
+3. EXIT
+4. ABOUT US
+ENTER YOUR CHOICE: 3
+>>> 
